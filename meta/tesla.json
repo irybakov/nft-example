@@ -1,0 +1,23 @@
+{
+    "name": "Tesla model S",
+    "description": "Electric Car - Tesla Mode S",
+    "image": "https://ipfs.io/ipfs/QmYjrPTXrABpeW716PK7SBoYDPvbk5cv6E7t86npPBEMwT",
+    "attributes": [
+        {
+            "trait_type": "Speed",
+            "value": 250
+        },
+        {
+            "trait_type": "Fuel",
+            "value": "electric"
+        },
+        {
+            "trait_type": "year",
+            "value": 2016
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 50
+        }
+    ]
+}

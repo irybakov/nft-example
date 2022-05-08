@@ -1,0 +1,23 @@
+{
+    "name": "Kopeyka",
+    "description": "Tuting Car VAZ 2101 - Kopeyka",
+    "image": "https://ipfs.io/ipfs/QmXAxt4Bt8UAUqF3HMTdtwfF54MCf9ktc86Wgxz7dwbyMw",
+    "attributes": [
+        {
+            "trait_type": "Speed",
+            "value": 250
+        },
+        {
+            "trait_type": "Fuel",
+            "value": "gazolin"
+        },
+        {
+            "trait_type": "year",
+            "value": 2019
+        },
+        {
+            "trait_type": "Rarity",
+            "value": 100
+        }
+    ]
+}
